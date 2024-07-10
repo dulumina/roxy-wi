@@ -25,3 +25,4 @@ ansible-core>=2.11.12
 ansible-runner==2.3.1
 python-whois>=0.8.0
 netaddr>=0.10.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
